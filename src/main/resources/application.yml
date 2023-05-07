@@ -1,0 +1,4 @@
+
+amazonProperties:
+  accessKey: default_access_key
+  secretKey: default_secret_key
